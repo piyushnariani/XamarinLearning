@@ -86,4 +86,6 @@ C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\9
 C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\netstandard2.0\HelloWorld.dll
+C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld.Android\bin\Debug\HelloWorld.dll.mdb
 C:\Users\piyus\source\repos\HelloWorld\HelloWorld\HelloWorld.Android\obj\Debug\90\linksrc\HelloWorld.dll.mdb

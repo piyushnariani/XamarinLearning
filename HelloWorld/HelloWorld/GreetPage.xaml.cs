@@ -17,10 +17,5 @@ namespace HelloWorld
 			InitializeComponent ();
             slider1.Value = 0.5;
 		}
-
-        private void Slider_ValueChanged(object sender, ValueChangedEventArgs e)
-        {
-            label1.Text = String.Format("Value is {0:F2}", e.NewValue);
-        }
     }
 }
